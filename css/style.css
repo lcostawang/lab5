@@ -1,7 +1,7 @@
 body{
   background-image: url(../images/background.png);
   background-color: black;
-  font-family: Courier New, Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 h1{
@@ -10,7 +10,7 @@ h1{
   width: 60%;
   padding-top: 25px;
   text-align: center;
-  font-family: Lucida Console, Courier New, Courier, monospace;
+  font-family: "Lucida Console", "Courier New", Courier, monospace;
   font-size: 60px;
   color: #369101;
 }
@@ -21,7 +21,7 @@ h2{
   width: 60%;
   padding-bottom: 25px;
   text-align: center;
-  font-family: Lucida Console, Courier New, Courier, monospace;
+  font-family: "Lucida Console", "Courier New", Courier, monospace;
   font-size: 50px;
   color: #5fff02;
 }
